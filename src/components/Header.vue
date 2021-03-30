@@ -1,7 +1,7 @@
 <template>
   <header id="header" class="flex">
     <h1>
-      <a href="/">Chatroulette</a>
+      <a href="/">VO-chatroulette</a>
     </h1>
     <ul class="control">
       <li>
